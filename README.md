@@ -10,7 +10,7 @@ This repository contains my Git and GitHub learning journey. It includes practic
 - GitHub Repositories
 - Pull Requests
 - Conflict Resolution
-- Git Ignore (.gitignore)
+- Git Ignore
 - GitHub Collaboration
 
 ## Goal
